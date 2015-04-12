@@ -1,19 +1,32 @@
 {
-  "name": "know-your-http-well",
-  "description": "HTTP headers, media-types, methods, relations and status codes, all summarized and linking to their specification.",
-  "keywords": [
-    "http",
-    "rfc",
-    "json"
-  ],
-  "version": "0.2.0",
+  "name": "http-STATUS-CODES-for-humans",
+  "version": "1.0.0",
+  "description": "Http get status codes explained",
+  "main": "index.js",
+  "dependencies": {
+    "json-query": "^1.4.0",
+    "open": "0.0.5",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/andreineculau/know-your-http-well.git"
+    "url": "https://github.com/frankmaina/http-STATUS-CODES-for-humans"
   },
-  "license": "Unlicense",
-  "main": "js/index",
-  "dependencies": {
-    "amdefine": "~0.0.4"
-  }
+  "keywords": [
+    "http",
+    "get",
+    "status",
+    "codes",
+    "humans",
+    "explained"
+  ],
+  "author": "Francis Maina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frankmaina/http-STATUS-CODES-for-humans/issues"
+  },
+  "homepage": "https://github.com/frankmaina/http-STATUS-CODES-for-humans"
 }
