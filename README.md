@@ -27,7 +27,7 @@ You can have the script redirect you to a website with further explanation on th
 
 ### TO COME
 * Specific search functionality
-* diffeerent types of http calls
+* different types of http calls
 * native GUI(windows first)
 
 
