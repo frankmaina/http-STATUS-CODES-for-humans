@@ -1,9 +1,9 @@
 # http-STATUS-CODES-for-humans(README NOT COMPLETE)
 
-A small project that popped up when i needed to access a popular browser based MMO but could not seem
-to get any ersponse. At first io thought it was something to do with my browser, so i decided to 
-write a short svript to fetch the webite via get and validate its response. History cut shor, I decided to 
-open source the script/
+A small project that popped up when I needed to access a popular browser based MMO but could not seem
+to get any response. At first i thought it was something to do with my browser cache, so i decided to 
+write a short script to fetch the webite via get and validate its response. History cut short, I decided to 
+open source the script.
 
 ## Installation
 
