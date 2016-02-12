@@ -17,7 +17,7 @@ request(url, function (error, response, body) {
     console.log('Code: '+result['value'].code+' \n '+result['value'].description);
 
     if (process.argv[3]=='-O'){
-    	open(result['value'].spec_href)
+    	open(result['value'].spec_href) //open on web browser
 
     }
   }else{
